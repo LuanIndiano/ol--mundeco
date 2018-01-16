@@ -1,2 +1,5 @@
 # ol--mundeco
-ola, eu me chamo, luan, e estou interessado no aprendizado de desenvolvimento
+
+Olá Humanos!
+
+Estou ingressando no mundo do desenvolvimento agora, e pretendo aprender muitos codigos maneiros!
